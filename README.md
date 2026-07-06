@@ -6,7 +6,7 @@
 ## Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like **Pandas, Numpy, Matplotlib, Seaborn**for cleaning, visualization, and analysis. 
 
-![](https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg)
+![](https://github.com/sanjeevrathin/Python_project_AirBNB_Listing/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2(1).jpg)
 
 ---
 
@@ -92,7 +92,7 @@ The dataset contains **20,765 entries and 22 features**, including:
 ## How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024.git
+   git clone https://github.com/sanjeevrathin/Python_project_AirBNB_Listing
             
    ```
 2. Install the required libraries:
@@ -101,7 +101,7 @@ The dataset contains **20,765 entries and 22 features**, including:
    ```
 3. Run the **Jupyter notebook** or **Python script**:
    ```bash
-   jupyter notebook day23_airbnb_eda.ipynb
+   jupyter notebook AirBnB_Analysis.ipynb
    ```
 
 ---
@@ -132,7 +132,7 @@ This project offers valuable insights into the New York Airbnb market, helping b
 
 ## Contact
 For any queries, feel free to reach out at:
-- **GitHub**: [Your GitHub](https://github.com/your-repo)  
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+- **GitHub**: [Your GitHub](https://github.com/sanjeevrathin)  
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/sanjeev-rathin/)  
 
 ---
